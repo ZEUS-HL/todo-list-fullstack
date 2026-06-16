@@ -35,3 +35,7 @@ The API runs on `http://localhost:4000/api`.
 - `POST /api/tasks`
 - `PATCH /api/tasks/:id`
 - `DELETE /api/tasks/:id`
+
+## Deploy To Vercel
+
+This project includes `vercel.json` and a serverless API function in `api/tasks.js`, so it can be deployed directly to Vercel.

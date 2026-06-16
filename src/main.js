@@ -1,7 +1,7 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 
-const API_URL = 'http://localhost:4000/api/tasks';
+const API_URL = '/api/tasks';
 const h = React.createElement;
 
 function IconButton({ className = '', label, children, onClick }) {
