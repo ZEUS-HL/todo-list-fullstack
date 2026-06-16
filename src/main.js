@@ -152,7 +152,7 @@ function TaskApp() {
       h(
         'div',
         { className: 'panel-header' },
-        h('div', null, h('p', { className: 'eyebrow' }, 'Daily focus'), h('h1', null, 'Taskflow')),
+        h('div', null, h('p', { className: 'eyebrow' }, 'Daily focus'), h('h1', null, 'Zeus task')),
         h(
           'div',
           { className: 'summary' },
